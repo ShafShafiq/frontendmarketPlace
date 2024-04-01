@@ -50,7 +50,7 @@ const CustomerSignup = () => {
     const heading="Sign Up to account"
     const    paragraph="Already have an Account "
      const    linkName="LogIn"
-    const    linkUrl="/sellerlogin"
+    const    linkUrl="/"
 
 
 
